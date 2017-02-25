@@ -1,0 +1,2 @@
+D:\MyCompany\MicrosoftBots\TestBot\obj\Debug\TestBot.njsprojResolveAssemblyReference.cache
+D:\MyCompany\MicrosoftBots\TestBot\bin\Microsoft.NodejsTools.WebRole.dll
